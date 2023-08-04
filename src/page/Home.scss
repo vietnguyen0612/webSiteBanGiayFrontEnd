@@ -1,0 +1,16 @@
+.home {
+    padding-top: 85px;
+    .container{
+
+
+        .buy {
+            &:hover{
+                cursor: pointer;
+                background: gray;
+                small {
+                    color: white;
+                }
+            }
+        }
+    }
+}
